@@ -16,7 +16,7 @@
   
 </div>
 
-![snake gif](https://github.com/PaceRunerz/PaceRunerz/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/S.Tripathi/S.Tripathi/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🔭 I'm currently working on
 Building a secure Password Manager 🔐
