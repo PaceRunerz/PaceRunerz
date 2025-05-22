@@ -1,89 +1,110 @@
-<!---
-########################################
-#                                      #
-#        Shreyansh Tripathi            #
-#                                      #
-#            Copyright 2024            #
-#     All rights reserved              #
-########################################
---->
+<div align="center">
 
-<div align=center>
-  
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=100&section=header"/>](https://capsule-render.vercel.app/)
+<!-- Green Typing Animation Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=32&duration=4000&pause=500&color=0AF72E&center=true&vCenter=true&width=1000&height=100&lines=Shreyansh+Tripathi;Secure+Code+Artisan;Blockchain+%7C+AI+%7C+Web3+Security)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=I'm+Shreyansh+Tripathi;Cybersecurity+Undergrad;Building+%26+Securing+the+Web;Passionate+about+Security+%F0%9F%94%92;Open+Source+Contributor;Always+learning+new+tech;Check+my+projects+below+%F0%9F%98%89)](https://git.io/typing-svg)
-  
-</div>
+<!-- Full-width RGB Border -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
 
-![snake gif](https://github.com/PaceRunerz/PaceRunerz/blob/output/github-contribution-grid-snake-dark.svg)
-
-## 🔭 I'm currently working on
-Building a secure Password Manager 🔐
-
-## 🌱 I'm currently learning
-Exploring encryption, secure coding, and bug bounty basics
-
-## 💻 Technical Skills
-### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-
-### Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
-### Tools
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
-![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-<div align=center>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyanshtripathi&show_icons=true&theme=chartreuse-dark&layout=compact&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshtripathi&layout=compact&theme=chartreuse-dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyanshtripathi&theme=chartreuse-dark)
+<!-- Full-width Animated GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="margin: 0 auto; display: block;"/>
 
 </div>
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=shreyanshtripathi&theme=matrix&row=2&column=5)
+---
 
-## 📫 How to reach me
-- Email: [shreyanshtripathi210@gmail.com](mailto:shreyanshtripathi210@gmail.com)
-- Twitter: [@shreyan05549644](https://twitter.com/shreyan05549644)
-- LinkedIn: [shreyansh tripathi](https://linkedin.com/in/shreyansh-tripathi)
-- Instagram: [shreyansh tripath.i](https://instagram.com/shreyanshtripath.i)
-- HackerRank: [@shreyanshtripat6](https://www.hackerrank.com/shreyanshtripat6)
-- Discord: PaceRunerz#0105
+### **🚀 Current Focus**
+Building my **personal webpage** | Mastering **AI/Blockchain integration**  
+*Continuously learning web development, blockchain, and artificial intelligence.*  
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=100&section=footer"/>](https://capsule-render.vercel.app/)
+😄 **Pronouns:** He/Him  
+
+---
+
+### **💻 Tech Stack**
+
+#### **Programming Languages**
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" height="28"/>
+</div>
+
+#### **Frontend**
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="28"/>
+</div>
+
+#### **Backend**
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="28"/>
+</div>
+
+#### **Databases**
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28"/>
+</div>
+
+#### **Frameworks & Tools**
+<div>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="28"/>
+</div>
+
+---
+
+### **🌐 Connect With Me**
+<div>
+  <a href="mailto:shreyanshtripathi210@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="32"/>
+  </a>
+  <a href="https://www.linkedin.com/in/st-shreyansh-tripathi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="32"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/shreyanshtripat6">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white" height="32"/>
+  </a>
+  <a href="https://discord.com/users/PaceRunerz#0105">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" height="32"/>
+  </a>
+  <a href="https://instagram.com/shreyanshtripath.i">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="32"/>
+  </a>
+  <a href="https://twitter.com/shreyan05549644">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" height="32"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+<!-- RGB Border -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaceRunerz&show_icons=true&theme=vision-friendly-dark&border_color=0AF72E&include_all_commits=true)
+
+<!-- Snake Animation -->
+![Snake Game](https://github.com/PaceRunerz/PaceRunerz/blob/output/github-contribution-grid-snake.svg)
+
+</div>
