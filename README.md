@@ -6,18 +6,13 @@
 <!-- Name Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=3000&pause=800&color=0AF72E&center=true&vCenter=true&width=1100&lines=SHREYANSH+TRIPATHI;SECURITY+%7C+DEVELOPMENT+%7C+INNOVATION)](https://git.io/typing-svg)
 
-<!-- RGB Animated Border -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10px"/>
-
 <!-- Full-Width Animated GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
-<!-- RGB Animated Border -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10px"/>
-
 </div>
 
----
+<!-- 1. BELOW CURRENT FOCUS -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
 
 ### **🚀 Current Focus**
 🔨 Building **my personal portfolio website**  
@@ -26,7 +21,8 @@
 
 😄 **Pronouns:** He/Him  
 
----
+<!-- 2. BETWEEN CURRENT FOCUS AND TECH STACK -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
 
 ### **💻 Tech Stack**
 
@@ -77,7 +73,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"/>
 </div>
 
----
+<!-- 3. BETWEEN TECH STACK AND CONNECT WITH ME -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
 
 ### **🌐 Connect With Me**
 <div>
@@ -101,20 +98,15 @@
   </a>
 </div>
 
----
+<!-- 4. BETWEEN CONNECT WITH ME AND GITHUB STATS -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
 
 <div align="center">
-
-<!-- RGB Animated Border -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10px"/>
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaceRunerz&show_icons=true&theme=vision-friendly-dark&border_color=0AF72E&include_all_commits=true)
 
 <!-- Snake Animation -->
 ![Snake Game](https://github.com/PaceRunerz/PaceRunerz/blob/output/github-contribution-grid-snake.svg)
-
-<!-- RGB Animated Footer -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="10px"/>
 
 </div>
