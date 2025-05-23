@@ -84,15 +84,11 @@
   <a href="https://www.linkedin.com/in/st-shreyansh-tripathi/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="32"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/shreyanshtripat6">
-    <img src="https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white" height="32"/>
-  </a>
+  
   <a href="https://discord.com/users/PaceRunerz#0105">
     <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" height="32"/>
   </a>
-  <a href="https://instagram.com/shreyanshtripath.i">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" height="32"/>
-  </a>
+  
   <a href="https://twitter.com/shreyan05549644">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" height="32"/>
   </a>
