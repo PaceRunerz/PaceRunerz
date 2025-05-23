@@ -109,9 +109,9 @@
 <!-- Snake Animation -->
 
 <!-- Light Mode -->
-![Snake](https://raw.githubusercontent.com/your-username/your-repo/output/snake.svg#gh-light-mode-only)
+![Snake](https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/output/snake.svg#gh-light-mode-only)
 
 <!-- Dark Mode --> 
-![Snake](https://raw.githubusercontent.com/your-username/your-repo/output/snake-dark.svg#gh-dark-mode-only)
+![Snake](https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/output/snake-dark.svg#gh-dark-mode-only)
 
 </div>
