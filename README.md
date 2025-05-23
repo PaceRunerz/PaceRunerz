@@ -106,7 +106,7 @@
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaceRunerz&show_icons=true&theme=vision-friendly-dark&border_color=0AF72E&include_all_commits=true)
 
-<!-- Snake Animation -->![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- Snake Animation -->
+![Snake Game](https://github.com/PaceRunerz/PaceRunerz/blob/output/github-contribution-grid-snake.svg)
 
 </div>
