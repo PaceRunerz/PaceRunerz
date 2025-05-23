@@ -12,7 +12,7 @@
 </div>
 
 <!-- 1. BELOW CURRENT FOCUS -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="8px"/>
 
 ### **🚀 Current Focus**
 🔨 Building **my personal portfolio website**  
@@ -22,7 +22,7 @@
 😄 **Pronouns:** He/Him  
 
 <!-- 2. BETWEEN CURRENT FOCUS AND TECH STACK -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="8px"/>
 
 ### **💻 Tech Stack**
 
@@ -74,7 +74,7 @@
 </div>
 
 <!-- 3. BETWEEN TECH STACK AND CONNECT WITH ME -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="8px"/>
 
 ### **🌐 Connect With Me**
 <div>
@@ -84,18 +84,22 @@
   <a href="https://www.linkedin.com/in/st-shreyansh-tripathi/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="32"/>
   </a>
-  
+  <a href="https://www.hackerrank.com/profile/shreyanshtripat6">
+    <img src="https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white" height="32"/>
+  </a>
   <a href="https://discord.com/users/PaceRunerz#0105">
     <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" height="32"/>
   </a>
-  
+  <a href="https://instagram.com/shreyanshtripath.i">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" height="32"/>
+  </a>
   <a href="https://twitter.com/shreyan05549644">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" height="32"/>
   </a>
 </div>
 
 <!-- 4. BETWEEN CONNECT WITH ME AND GITHUB STATS -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="8px"/>
 
 <div align="center">
 
