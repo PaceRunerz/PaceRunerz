@@ -12,7 +12,7 @@
 </div>
 
 <!-- 1. BELOW CURRENT FOCUS -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="50%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px"/>
 
 ### **🚀 Current Focus**
 🔨 Building **my personal portfolio website**  
@@ -22,7 +22,7 @@
 😄 **Pronouns:** He/Him  
 
 <!-- 2. BETWEEN CURRENT FOCUS AND TECH STACK -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px"/>
 
 ### **💻 Tech Stack**
 
@@ -74,7 +74,7 @@
 </div>
 
 <!-- 3. BETWEEN TECH STACK AND CONNECT WITH ME -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px"/>
 
 ### **🌐 Connect With Me**
 <div>
@@ -99,7 +99,7 @@
 </div>
 
 <!-- 4. BETWEEN CONNECT WITH ME AND GITHUB STATS -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="8px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="4px"/>
 
 <div align="center">
 
