@@ -28,9 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required to commit generated files
 
       - name: Commit and Push Snake Animation
-        uses: stefanzweifel/git-auto-commit-action@v5 # Using v5 which is the latest as of my knowledge cutoff
-        with:
-          commit_message: "chore: Generate and update snake animation"
-          branch: main # Or your default branch name (e.g., master)
-          file_pattern: dist/*.svg dist/*.gif # Pattern for files to commit
+            uses: stefanzweifel/git-auto-commit-action@v5
+            with:
+              commit_message: "chore: Generate and update snake animation"
+              branch: main # Or your default branch name (e.g., master)
+              file_pattern: dist/*.svg # Corrected: Only look for .svg files
           # Add other options if needed, like commit_user_name, commit_user_email, etc
