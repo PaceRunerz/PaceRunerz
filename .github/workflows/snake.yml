@@ -1,0 +1,37 @@
+name: Snake Animation
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual runs
+  push:
+    branches: [ "main" ] # Runs on pushes to main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Required to push changes
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Get full commit history
+
+      - name: Generate snake
+        uses: Platane/snk@master
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: snake.svg
+          dark_svg_out_path: snake-dark.svg
+          gif_out_path: snake.gif
+          min_contributions: 1  # Works even with few commits
+
+      - name: Push to repository
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add snake.svg snake-dark.svg snake.gif
+          git commit -m "Update snake animation [skip ci]"
+          git push
