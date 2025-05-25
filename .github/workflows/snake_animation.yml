@@ -1,0 +1,36 @@
+name: Generate GitHub Snake Animation
+
+on:
+  # Run workflow automatically on a schedule (e.g., every 12 hours)
+  schedule:
+    - cron: "0 */12 * * *" # Runs at 00:00 and 12:00 UTC every day
+  # Allow manual triggering of the workflow from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }} # Automatically uses your GitHub username
+          # You can customize the outputs. Here are a few examples:
+          # Default SVG: dist/github-snake.svg
+          # Dark mode SVG: dist/github-snake-dark.svg?palette=github-dark
+          # Ocean GIF: dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required to commit generated files
+
+      - name: Commit and Push Snake Animation
+        uses: stefanzweifel/git-auto-commit-action@v5 # Using v5 which is the latest as of my knowledge cutoff
+        with:
+          commit_message: "chore: Generate and update snake animation"
+          branch: main # Or your default branch name (e.g., master)
+          file_pattern: dist/*.svg dist/*.gif # Pattern for files to commit
+          # Add other options if needed, like commit_user_name, commit_user_email, etc.
