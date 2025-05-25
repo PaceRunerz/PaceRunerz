@@ -1,36 +1,44 @@
 name: Generate GitHub Snake Animation
 
 on:
-  # Run workflow automatically on a schedule (e.g., every 12 hours)
   schedule:
-    - cron: "0 */12 * * *" # Runs at 00:00 and 12:00 UTC every day
-  # Allow manual triggering of the workflow from the Actions tab
+    # Runs at 00:00 and 12:00 UTC every day
+    - cron: "0 */12 * * *"
+  # Allows manual triggering of the workflow from the Actions tab
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout your repository
       - uses: actions/checkout@v3
 
+      # Step 2: Generate the snake animation SVG files
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }} # Automatically uses your GitHub username
-          # You can customize the outputs. Here are a few examples:
-          # Default SVG: dist/github-snake.svg
-          # Dark mode SVG: dist/github-snake-dark.svg?palette=github-dark
-          # Ocean GIF: dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          github_user_name: ${{ github.repository_owner }} # Uses your GitHub username
+          # Define the output files for the snake animation
+          # This will create:
+          # - dist/github-snake.svg (for light mode)
+          # - dist/github-snake-dark.svg (for dark mode, using github-dark palette)
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Required to commit generated files
+          # A GitHub token is required to read your contribution data
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 3: Commit and push the generated SVG files to your repository
       - name: Commit and Push Snake Animation
-            uses: stefanzweifel/git-auto-commit-action@v5
-            with:
-              commit_message: "chore: Generate and update snake animation"
-              branch: main # Or your default branch name (e.g., master)
-              file_pattern: dist/*.svg # Corrected: Only look for .svg files
-          # Add other options if needed, like commit_user_name, commit_user_email, etc
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Generate and update snake animation"
+          # Specify the branch to commit to (e.g., main, master)
+          branch: main # Make sure this matches your repository's default branch
+          # Specify the file pattern for the files to commit
+          file_pattern: dist/*.svg # Only committing .svg files in the dist/ directory
+          # Optional: If you want to specify commit author
+          # commit_user_name: Your Name
+          # commit_user_email: your.email@example.com
