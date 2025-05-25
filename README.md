@@ -56,6 +56,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaceRunerz&show_icons=true&theme=vision-friendly-dark&border_color=0AF72E&include_all_commits=true)
 
 <!-- Fixed Snake Animation -->
-![Snake Game](https://github.com/PaceRunerz/PaceRunerz/blob/output/github-contribution-grid-snake.svg)
+<!-- Light Mode -->
+![Snake](https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!-- Dark Mode -->
+![Snake](https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
