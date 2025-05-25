@@ -90,12 +90,7 @@
   <a href="https://discord.com/users/PaceRunerz#0105">
     <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" height="32"/>
   </a>
-  <a href="https://instagram.com/shreyanshtripath.i">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" height="32"/>
-  </a>
-  <a href="https://twitter.com/shreyan05549644">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" height="32"/>
-  </a>
+
 </div>
 
 <!-- 4. BETWEEN CONNECT WITH ME AND GITHUB STATS -->
