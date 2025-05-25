@@ -26,8 +26,52 @@
 
 ### **💻 Tech Stack**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+#### **Programming Languages**
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" height="30"/>
+</div>
+
+#### **Frontend Technologies**
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" height="30"/>
+</div>
+
+#### **Backend Technologies**
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="30"/>
+</div>
+
+#### **Databases**
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="30"/>
+</div>
+
+#### **Tools & Frameworks**
+<div>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"/>
+</div>
 
 <!-- 3. BETWEEN TECH STACK AND CONNECT WITH ME -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
