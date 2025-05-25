@@ -33,4 +33,4 @@ jobs:
           commit_message: "chore: Generate and update snake animation"
           branch: main # Or your default branch name (e.g., master)
           file_pattern: dist/*.svg dist/*.gif # Pattern for files to commit
-          # Add other options if needed, like commit_user_name, commit_user_email, etc.
+          # Add other options if needed, like commit_user_name, commit_user_email, etc
