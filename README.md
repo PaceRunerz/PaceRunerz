@@ -8,7 +8,7 @@
   <img src="https://github.com/PaceRunerz/PaceRunerz/blob/main/wave.gif?raw=true" width="40px" height="40px" alt="Waving hand animation">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=3000&pause=800&color=0AF72E&center=true&vCenter=true&width=1100&lines=SHREYANSH+TRIPATHI;SECURITY+%7C+DEVELOPMENT+%7C+INNOVATION)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=3000&pause=800&color=0AF72E&center=true&vCenter=true&width=1100&lines=AND+THIS+IS+PACE+RUNERZ+ENVIRONMENT+;SECURITY+%7C+DEVELOPMENT+%7C+INNOVATION)](https://git.io/typing-svg)
 
 <!-- Animated hyy 👋 greeting -->
 
