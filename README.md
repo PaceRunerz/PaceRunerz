@@ -123,7 +123,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaceRunerz&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaceRunerz&theme=dark&hide_border=true&layout=compact&langs_count=15"/>
     </td>
   </tr>
 </table>
