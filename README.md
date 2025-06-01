@@ -130,4 +130,3 @@
 
 </div>
 
-![Snake animation (dark)](https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/output/github-snake-dark.svg)
