@@ -13,6 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
 
 ### **🚀 Current Focus**
@@ -95,22 +96,20 @@
 
 <div align="center">
 
-![Animation - 1748774921864](https://github.com/user-attachments/assets/bf97687b-8d9d-42d0-927c-25b7bfb8d3da)
-
 # 📊 GitHub Stats:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake.svg">
 </picture>
 
-<table style="border: none; width: 100%;">
+<table>
   <tr>
-    <td style="width: 50%;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=PaceRunerz&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
     </td>
-    <td style="width: 50%;">
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaceRunerz&theme=dark&hide_border=true"/>
     </td>
   </tr>
