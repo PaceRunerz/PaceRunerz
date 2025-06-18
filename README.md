@@ -127,6 +127,7 @@
 
 </div>
 
+![Snake animation (dark)](https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/output/github-snake-dark.svg)
 <!-- 3D Contribution Graph - Night View -->
 <div align="center">
   <img src="https://github.com/PaceRunerz/PaceRunerz/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Night View" width="100%">
