@@ -104,11 +104,7 @@
 
 # 📊 GitHub Stats:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/PaceRunerz/PaceRunerz/main/dist/github-snake.svg" />
-</picture>
+
 <table style="border: none; width: 100%;">
   <tr>
     <td style="width: 50%;">
