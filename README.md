@@ -92,7 +92,7 @@
   <a href="https://discord.com/users/PaceRunerz#0105">
     <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" height="32"/>
   </a>
-</div>
+</div>               
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
 
