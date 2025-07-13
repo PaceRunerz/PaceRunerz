@@ -31,13 +31,13 @@
 
 #### **Programming Languages**
 <div>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="32"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="32"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="36"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="36"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white" height="36"/>
 </div>
 
 #### **Frontend Technologies**
