@@ -38,6 +38,8 @@
 
 ### **💻 Tech Stack**
 
+<p>
+
 #### **Programming Languages**
 <div>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" height="36"/>
@@ -84,10 +86,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"/>
 </div>
-
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
+
+</p>
+
 
 
 
@@ -117,7 +119,7 @@
   </a>
 </div>               
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" height="2px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
 
 <div align="center">
 
