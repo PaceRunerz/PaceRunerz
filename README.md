@@ -18,12 +18,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
 
 
-### **🚀 Current Focus**
-🔨 Building **my personal portfolio website**  
-🌱 Learning **AI integration & Web3 security**  
-🔒 Researching **zero-trust architectures**  
 
-😄 **Pronouns:** He/Him  
+## <span style="font-family: cursive; font-size: 28px; font-weight: bold;">🚀 Current Focus</span>
+
+<p style="font-size: 16px; font-weight: bold; line-height: 1.6;">
+🔬 <strong> Advancing research in AI-driven cybersecurity systems</strong><br><br>
+💻 <strong> Developing solutions around Web3, trust models, and secure automation</strong><br><br>
+🎓 <strong>Building products that improve digital safety and technological transparency</strong><br><br>
+🌱 <strong>Creating technology that is secure, efficient, and human-centered</strong>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
 
