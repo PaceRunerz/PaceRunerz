@@ -19,6 +19,11 @@
 
 
 
+
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="flex: 1; text-align: left; padding-right: 20px;">
+
+
 ## <span style="font-family: cursive; font-size: 28px; font-weight: bold;">🚀 Current Focus</span>
 
 <p style="font-size: 16px; font-weight: bold; line-height: 1.6;">
