@@ -82,6 +82,21 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2px"/>
 
+
+
+
+
+<!-- Smaller GIF added before Connect section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="20%" style="margin: 20px 0;" alt="Connect Animation"/>
+</div>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+
+
+
+
+
 ### **🌐 Connect With Me**
 <div>
   <a href="mailto:shreyanshtripathi210@gmail.com">
