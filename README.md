@@ -1,6 +1,6 @@
 <div align="center"> 
-ghn
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0AF72E&height=150&section=header"/>](https://capsule-render.vercel.app/)
+
+  [<img src="https://capsule-render.vercel.app/api?type=waving&color=0AF72E&height=150&section=header"/>](https://capsule-render.vercel.app/)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=0AF72E&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+%F0%9F%91%8B+I'm+Shreyansh+Tripathi" alt="Animated greeting" />
