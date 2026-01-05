@@ -128,8 +128,7 @@
 
 
 <!-- WEATHER_SECTION_START -->
-Weather in 🌆 **Bhopal**: Null, null°C  
-_Last updated: 2026-01-05 11:57 IST_
+
 <!-- WEATHER_SECTION_END -->
 
 
