@@ -1,0 +1,53 @@
+name: ⛅ Update weather & timestamp
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch current weather for Bhopal
+        id: weather
+        run: |
+          CITY="Bhopal"
+          COUNTRY="IN"
+          data=$(curl -s "https://api.openweathermap.org/data/2.5/weather?q=$CITY,$COUNTRY&appid=${{ secrets.WEATHER_API_KEY }}&units=metric")
+          echo "Raw response: $data"
+          desc=$(echo "$data" | jq -r '.weather[0].description')
+          temp=$(echo "$data" | jq -r '.main.temp')
+          echo "weather=${desc^}, ${temp}°C" >> $GITHUB_OUTPUT
+
+      - name: Rewrite README with current time
+        run: |
+          weather="${{ steps.weather.outputs.weather }}"
+          timestamp=$(TZ="Asia/Kolkata" date +"%Y-%m-%d %H:%M %Z")
+          echo "Using weather: $weather"
+          echo "Using timestamp: $timestamp"
+
+          awk '/<!-- WEATHER_SECTION_START -->/ {
+            print;
+            print "Weather in 🌆 **Bhopal**: '"$weather"'  \n_Last updated: '"$timestamp"'_";
+            skip=1;
+            next
+          }
+          /<!-- WEATHER_SECTION_END -->/ {skip=0}
+          !skip' README.md > temp.md && mv temp.md README.md
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update Bhopal weather & timestamp"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          else
+            echo "No changes to commit"
+          fi
