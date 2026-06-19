@@ -6,7 +6,7 @@
 .fill-strong { fill: rgb(255,200,55); }
 .fill-weak { fill: #aaaaaa; }
 .stroke-weak { stroke: #aaaaaa; }
-.radar {
+.radar { 
 stroke-width: 4px;
 stroke: rgb(255,200,55);
 fill: rgb(255,200,55);
