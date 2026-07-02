@@ -273,7 +273,7 @@ _Last updated: 2026-07-02 19:21 IST_
 
 <!-- 3D Contribution Graph - Night View -->
 <div align="center">
-  <img src="https://github.com/PaceRunerz/PaceRunerz/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Night View" width="100%">
+  <img src="https://github.com/PaceRunerz/PaceRunerz/blob/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Night View" width="100%">
 </div>
 
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0AF72E&height=100&section=footer"/>](https://capsule-render.vercel.app/)
